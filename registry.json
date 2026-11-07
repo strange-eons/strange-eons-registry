@@ -92,6 +92,11 @@
       "name": "Developer Tools",
       "repo": "christophercurrie/se3-developer-tools-plugin",
       "asset": "DeveloperTools.seplugin"
+    },
+    {
+      "name": "Bulk Export",
+      "repo": "strange-eons/strange-eons-bulk-export-plugin",
+      "asset": "BulkExport.seplugin"
     }
   ]
 }
