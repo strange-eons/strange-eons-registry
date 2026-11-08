@@ -15,8 +15,13 @@
   "plugins": [
     {
       "name": "Arkham Horror LCG",
-      "url": "https://github.com/tokeeto/StrangeEonsAHLCG/raw/refs/heads/master/ArkhamHorrorLCG/ArkhamHorrorLCG.seext",
-      "filename": "ArkhamHorrorLCG.seext"
+      "repo": "strange-eons/strange-eons-arkham-horror-lcg-plugin",
+      "asset": "ArkhamHorrorLCG.seext"
+    },
+    {
+      "name": "Arkham Horror LCG HD",
+      "repo": "strange-eons/strange-eons-arkham-horror-lcg-plugin",
+      "asset": "ArkhamHorrorLCGHD.seext"
     },
     {
       "name": "X-wing",
